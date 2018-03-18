@@ -8,8 +8,20 @@ h2 {
   color: black:
   <em>font-style: italic;</em>
 }
+h3 {
+  color: Black;
+  font-family: fantasy;
+}
+h4 {
+  color: Black;
+  font-family: fantasy;
+}
+h5 {
+  color: Black;
+  font-family: fantasy;
+}
 body  {
-     background-color: white;
+     background-color: grey;
 }
 p {
   font-family: cursive;
